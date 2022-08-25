@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\VScode for java\\jar zips\\jar_files\\apiguardian-api-1.1.0.jar",
+        "c:\\VScode for java\\jar zips\\jar_files\\junit-jupiter-5.5.2.jar",
+        "c:\\VScode for java\\jar zips\\jar_files\\junit-jupiter-api-5.5.2.jar",
+        "c:\\VScode for java\\jar zips\\jar_files\\junit-jupiter-engine-5.5.2.jar",
+        "c:\\VScode for java\\jar zips\\jar_files\\junit-jupiter-params-5.5.2.jar",
+        "c:\\VScode for java\\jar zips\\jar_files\\junit-platform-commons-1.5.2.jar",
+        "c:\\VScode for java\\jar zips\\jar_files\\junit-platform-engine-1.5.2.jar",
+        "c:\\VScode for java\\jar zips\\jar_files\\opentest4j-1.2.0.jar",
+        "c:\\VScode for java\\jar zips\\sqljdbc_11.2.0.0_enu\\sqljdbc_11.2\\enu\\mssql-jdbc-11.2.0.jre11.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.dependency.syncWithFolderExplorer": true
+}
