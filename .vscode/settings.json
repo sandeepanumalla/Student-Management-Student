@@ -11,7 +11,8 @@
         "c:\\VScode for java\\jar zips\\jar_files\\junit-platform-commons-1.5.2.jar",
         "c:\\VScode for java\\jar zips\\jar_files\\junit-platform-engine-1.5.2.jar",
         "c:\\VScode for java\\jar zips\\jar_files\\opentest4j-1.2.0.jar",
-        "c:\\VScode for java\\jar zips\\sqljdbc_11.2.0.0_enu\\sqljdbc_11.2\\enu\\mssql-jdbc-11.2.0.jre11.jar"
+        "c:\\VScode for java\\jar zips\\sqljdbc_11.2.0.0_enu\\sqljdbc_11.2\\enu\\mssql-jdbc-11.2.0.jre11.jar",
+        "c:\\VScode for java\\jar zips\\mysql-connector-java-8.0.29\\mysql-connector-java-8.0.29.jar"
     ],
     "java.dependency.packagePresentation": "hierarchical",
     "java.dependency.syncWithFolderExplorer": true
